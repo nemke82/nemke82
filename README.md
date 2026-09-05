@@ -12,7 +12,7 @@
 
 [![Website](https://img.shields.io/badge/Website-nemanja.io-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://nemanja.io)
 [![GitHub](https://img.shields.io/badge/GitHub-nemke82-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nemke82)
-[![Email](https://img.shields.io/badge/Email-nemke%40nemanja.io-059669?style=flat-square&logo=gmail&logoColor=white)](mailto:nemke@nemanja.io)
+[![Email](https://img.shields.io/badge/Email-ne%40nemanja.io-059669?style=flat-square&logo=gmail&logoColor=white)](mailto:ne@nemanja.io)
 
 </div>
 
@@ -306,8 +306,8 @@ If you're building or operating a platform where backend engineering and infrast
     <img src="https://img.shields.io/badge/GitHub-nemke82-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:nemke@nemanja.io">
-    <img src="https://img.shields.io/badge/Email-nemke%40nemanja.io-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:ne@nemanja.io">
+    <img src="https://img.shields.io/badge/Email-ne%40nemanja.io-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
