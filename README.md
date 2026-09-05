@@ -4,9 +4,9 @@
 
 # Hi, I'm Nemanja Djuric 👋
 
-### **Backend Engineer · DevOps · Linux Systems Administrator · Web Hosting Engineer**
+### **Backend Engineer · AI Engineer · DevOps · Linux Systems Administrator**
 
-*I build, operate, and troubleshoot production systems where application code, infrastructure, and performance meet.*
+*I build, operate, and troubleshoot production systems where application code, AI intelligence, infrastructure, and performance meet.*
 
 <br/>
 
@@ -22,14 +22,24 @@
 
 ### 💡 About Me
 
-My background spans backend development, Linux systems engineering, web hosting infrastructure, Magento / Adobe Commerce, databases, containers, automation, and production incident response.
+My background spans backend development, artificial intelligence, Linux systems engineering, web hosting infrastructure, Magento / Adobe Commerce, databases, containers, automation, and production incident response.
 
 > *"I enjoy solving the problems that usually live somewhere between:*  
-> **'The application is slow.'**  
+> **'The application is slow or needs automated intelligence.'**  
 > *and*  
-> **'Something deep in the stack is causing it.'**"*
+> **'Something deep in the stack is driving it.'**"*
 
-Whether that means tracing a Magento cron bottleneck, investigating database I/O, tuning PHP workers, debugging Redis or OpenSearch, building deployment automation, designing infrastructure, or writing a systems tool from scratch — that's the kind of work I like doing.
+Whether that means architecting standalone private AI agents on dedicated hardware, tracing complex database and cron bottlenecks, tuning PHP/Symfony workers, debugging distributed search and cache clusters, or writing systems tools from scratch — that's the kind of work I like doing.
+
+---
+
+### 🛡️ Active Engineering Focus: Enterprise AI & Cybersecurity
+
+Currently active as a **Backend ([Symfony](https://symfony.com/)) Developer & AI Engineer** for a **Swedish cybersecurity enterprise**, where I architect and build **standalone, company-private AI Agents hosted on dedicated hardware**.
+
+* **On-Premise Private AI Architecture**: Designed and deployed air-gapped, zero-data-leakage autonomous AI Agents running on dedicated bare-metal infrastructure — guaranteeing that proprietary security telemetry, customer documents, and sensitive audit logs never leave the company's private perimeter.
+* **Enterprise Symfony Backend ([symfony.com](https://symfony.com/))**: Engineered robust, high-throughput microservices and API gateways in Symfony to coordinate agentic toolchains, asynchronous queues, and real-time security events.
+* **Local Inference & Agentic Workflows**: Built retrieval-augmented generation (RAG) pipelines, semantic embeddings, vector database search, and function-calling toolchains for automated security triage and rapid operational diagnostics.
 
 ---
 
@@ -39,26 +49,44 @@ Whether that means tracing a Magento cron bottleneck, investigating database I/O
 <tr>
 <td width="50%" valign="top">
 
-#### ⚙️ Backend & Application Engineering
-*I work primarily on backend systems, automation and tooling, with a particular focus on software that interacts closely with the operating system and infrastructure underneath it.*
+#### 🤖 AI & Autonomous Agents
+*Private on-premise AI agents, local LLM inference, RAG pipelines, and agentic workflows on dedicated hardware.*
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/Magento_2-EE672F?style=flat-square&logo=magento&logoColor=white" alt="Magento" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/AI_Agents-0284c7?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Local_LLMs-10B981?style=flat-square&logo=meta&logoColor=white" alt="Local LLMs" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square&logo=diagram-next&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_DBs-EC4899?style=flat-square&logo=database&logoColor=white" alt="Vector DBs" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama_/_vLLM-000000?style=flat-square&logo=ollama&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Function_Calling-F59E0B?style=flat-square&logo=codeforces&logoColor=white" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/Dedicated_Hardware-374151?style=flat-square&logo=server&logoColor=white" alt="Dedicated Hardware" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
+#### ⚙️ Backend & Application Engineering
+*Software that interacts closely with operating systems, databases, and AI infrastructure underneath.*
+
+<p>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Magento_2-EE672F?style=flat-square&logo=magento&logoColor=white" alt="Magento" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### ☁️ DevOps & Infrastructure
-*Designing, deploying, automating and troubleshooting production environments — from a single Linux server to containerized and distributed infrastructure.*
+*Designing, automating, and troubleshooting production environments — from bare-metal Linux to distributed container clusters.*
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -72,38 +100,22 @@ Whether that means tracing a Magento cron bottleneck, investigating database I/O
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-#### 🌐 Web Hosting & Systems Engineering
-*Extensive experience operating high-traffic web hosting and e-commerce environments, performance analysis, migrations, security, and incident triage.*
-
-<p>
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
-  <img src="https://img.shields.io/badge/CloudLinux-004B87?style=flat-square&logo=linux&logoColor=white" alt="CloudLinux" />
-  <img src="https://img.shields.io/badge/LiteSpeed-007ACC?style=flat-square&logo=server&logoColor=white" alt="LiteSpeed" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP-FPM" />
-  <img src="https://img.shields.io/badge/Varnish-0284c7?style=flat-square&logo=fastly&logoColor=white" alt="Varnish" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗄️ Data, Search & Messaging
-*Understanding what happens after the application reaches the database, cache, search engine, or message broker.*
+#### 🗄️ Data, Search, Cache & Hosting
+*High-traffic environments, caching, vector search, database tuning, and message brokering.*
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/AWS_Aurora-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Aurora" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Valkey-059669?style=flat-square&logo=redis&logoColor=white" alt="Valkey" />
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/LiteSpeed-007ACC?style=flat-square&logo=server&logoColor=white" alt="LiteSpeed" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/Varnish-0284c7?style=flat-square&logo=fastly&logoColor=white" alt="Varnish" />
 </p>
 
 </td>
@@ -118,17 +130,32 @@ Whether that means tracing a Magento cron bottleneck, investigating database I/O
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [Private AI Agent](https://github.com/nemke82) (Security Enterprise, Sweden)
+**Standalone company-private AI Agent hosted on dedicated bare-metal hardware.**
+
+Architected for an enterprise Swedish cybersecurity company to automate security investigations without sending confidential telemetry to third-party clouds.
+- On-premise private inference, function-calling agentic toolchain, and RAG document grounding.
+- High-performance [Symfony](https://symfony.com/) microservices backend and asynchronous event pipelines.
+- Zero secret or telemetry leakage, complete compliance, and hardware-accelerated local execution.
+
+`Symfony` · `Python` · `AI Agents` · `Local LLMs` · `RAG` · `Vector DB` · `Dedicated HW`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🩺 [Magento Doctor](https://github.com/nemke82/magento-doctor)
 **Deep diagnostics and performance forensics for Magento 2, written in Rust.**
 
 A production-oriented CLI for understanding *why* a Magento installation is unhealthy — not simply reporting checklists.
 - Correlates PHP AST static analysis, DI plugins, crontab overlap storms, declarative DB schemas, and runtime metrics.
 - Pinpoints N+1 repository loops, unindexed DB tables, blocking checkout plugins, and Redis/OpenSearch mismatch risks.
-- Zero-exposure secrets redaction with sub-second analysis speed.
+- Sub-second analysis speed with zero-exposure secrets redaction.
 
 `Rust` · `Magento 2` · `MySQL/MariaDB` · `Tree-sitter AST` · `Performance Forensics`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔐 [MeshGuard](https://github.com/nemke82/meshguard)
@@ -142,8 +169,6 @@ Rust-based messenger designed around direct off-grid communication through Mesht
 `Rust` · `Meshtastic` · `BLE` · `Protobuf` · `P2P Crypto` · `Cross-platform`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📬 [MailShrink](https://github.com/nemke82/mailshrink)
@@ -157,6 +182,8 @@ Analyzes historical email stored on Maildir servers and transparently compresses
 `Go` · `Linux Systems` · `Dovecot` · `Maildir` · `Storage Engineering`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ☁️ [Magento2Gitpod](https://github.com/nemke82/magento2gitpod)
@@ -168,21 +195,6 @@ Reproducible cloud development environment with the complete Magento application
 - Focuses on developer experience (DX) and repeatable dev environments.
 
 `Linux` · `Shell` · `Magento 2` · `Nginx` · `PHP-FPM` · `DevOps`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ [SQLScale](https://github.com/nemke82/sqlscale)
-**Open-source approach to on-premise Database-as-a-Service (DBaaS).**
-
-Exploration into provisioning RDS-like database infrastructure on self-hosted environments.
-- Backed by Kubernetes and OpenEBS container-attached storage engines.
-- Focuses on automated lifecycle management, replication, and persistent volume scheduling.
-- Eliminates cloud lock-in for data-intensive self-hosted applications.
-
-`Kubernetes` · `OpenEBS` · `HCL` · `DBaaS` · `Database Infrastructure`
 
 </td>
 <td width="50%" valign="top">
@@ -245,12 +257,13 @@ I approach troubleshooting from the **entire stack** rather than treating each l
 
 ### 🤝 Areas I Can Help With
 
-- **Backend Development**: Systems-oriented software, microservices, and performance-critical tooling in **Rust**, **Go**, and **PHP**.
+- **AI & Autonomous Agent Systems**: Designing and deploying **standalone private AI agents on dedicated hardware** with local LLMs (Ollama, vLLM, Hugging Face) for strict confidentiality, RAG document search, and custom agentic toolchains.
+- **Enterprise Backend Engineering**: High-throughput microservices, API architecture, and systems engineering in **[Symfony](https://symfony.com/)**, **Python**, **Rust**, and **Go**.
 - **Magento / Adobe Commerce**: Enterprise architecture, custom extension audits, performance forensics, and version migrations.
-- **Linux Infrastructure & Web Hosting**: High-availability hosting architectures (cPanel, CloudLinux, LiteSpeed, Nginx).
+- **Linux Infrastructure & Web Hosting**: Dedicated servers, private clouds, high-availability hosting architectures (cPanel, CloudLinux, LiteSpeed, Nginx).
 - **Incident Diagnostics & Performance**: Deep root-cause investigations, bottleneck triage, and performance profiling.
-- **Database & Queue Tuning**: Schema optimization, query index analysis, and RabbitMQ pipeline decoupling.
-- **CI/CD & DevOps Automation**: Infrastructure as Code, containerized workflows, and release engineering.
+- **Database, Search & Queue Tuning**: Schema optimization, query index analysis, and RabbitMQ pipeline decoupling.
+- **CI/CD & DevOps Automation**: Infrastructure as Code, containerized workflows, and automated release engineering.
 
 ---
 
@@ -259,7 +272,7 @@ I approach troubleshooting from the **entire stack** rather than treating each l
 I value software that solves real operational problems without unnecessary complexity. A solid tool should be:
 * **Observable** — Explains what it is doing with evidence-backed telemetry.
 * **Predictable** — Avoids surprising the operator or failing silently.
-* **Safe** — Prioritizes data safety, timeouts, and zero secret exposure.
+* **Safe** — Prioritizes data safety, timeouts, zero data leakage, and strict security boundaries.
 * **Portable** — Minimizes runtime baggage and external dependencies.
 * **Measurable** — Decisions should come from verifiable profiling and benchmarks.
 * **Automatable** — Repetitive operational toil belongs in automated code.
@@ -295,7 +308,7 @@ To showcase the full breadth across systems engineering, Rust, Go, infrastructur
 
 ### 💬 Let's Connect
 
-If you're building or operating a platform where backend engineering and infrastructure overlap, I'd be happy to talk.
+If you're building or operating a platform where backend engineering, AI, and infrastructure overlap, I'd be happy to talk.
 
 <p align="center">
   <a href="https://nemanja.io">
