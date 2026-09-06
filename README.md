@@ -35,7 +35,7 @@ Whether that means architecting standalone private AI agents on dedicated hardwa
 
 ### 🛡️ Active Engineering Focus: Enterprise AI & Cybersecurity
 
-Currently active as a **Backend ([Symfony](https://symfony.com/)) Developer & AI Engineer** for a **Swedish cybersecurity enterprise**, where I architect and build **standalone, company-private AI Agents hosted on dedicated hardware**.
+Currently active as a **Backend ([Symfony](https://symfony.com/)) Developer & AI Engineer** in the **cybersecurity space**, where I architect and build **standalone, company-private AI Agents hosted on dedicated hardware**.
 
 * **On-Premise Private AI Architecture**: Designed and deployed air-gapped, zero-data-leakage autonomous AI Agents running on dedicated bare-metal infrastructure — guaranteeing that proprietary security telemetry, customer documents, and sensitive audit logs never leave the company's private perimeter.
 * **Enterprise Symfony Backend ([symfony.com](https://symfony.com/))**: Engineered robust, high-throughput microservices and API gateways in Symfony to coordinate agentic toolchains, asynchronous queues, and real-time security events.
@@ -130,10 +130,10 @@ Currently active as a **Backend ([Symfony](https://symfony.com/)) Developer & AI
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Private AI Agent](https://github.com/nemke82) (Security Enterprise, Sweden)
+### 🤖 [Private AI Agent](https://github.com/nemke82) (Enterprise Cybersecurity)
 **Standalone company-private AI Agent hosted on dedicated bare-metal hardware.**
 
-Architected for an enterprise Swedish cybersecurity company to automate security investigations without sending confidential telemetry to third-party clouds.
+Architected within enterprise cybersecurity to automate security investigations without sending confidential telemetry to third-party clouds.
 - On-premise private inference, function-calling agentic toolchain, and RAG document grounding.
 - High-performance [Symfony](https://symfony.com/) microservices backend and asynchronous event pipelines.
 - Zero secret or telemetry leakage, complete compliance, and hardware-accelerated local execution.
