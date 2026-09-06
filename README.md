@@ -284,9 +284,9 @@ I value software that solves real operational problems without unnecessary compl
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemke82&show_icons=true&theme=transparent&title_color=0284c7&text_color=334155&icon_color=0284c7&border_color=e2e8f0&locale=en&hide_border=false" alt="Nemanja's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nemke82&show_icons=true&theme=transparent&title_color=0284c7&text_color=334155&icon_color=0284c7&border_color=e2e8f0&locale=en&hide_border=false" alt="Nemanja's GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemke82&layout=compact&theme=transparent&title_color=0284c7&text_color=334155&border_color=e2e8f0&hide_border=false" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nemke82&layout=compact&theme=transparent&title_color=0284c7&text_color=334155&border_color=e2e8f0&hide_border=false" alt="Top Languages" height="150" />
 </div>
 
 <br/>
